@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1920px" height="1040px" viewBox="0 0 1920 1040" style="enable-background:new 0 0 1920 1040;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0F6BF2;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'PrestigeSignatureScript-Demo';}
+	.st4{font-size:96.1885px;}
+	.st5{fill:url(#SVGID_2_);}
+</style>
+<rect y="0" class="st0" width="1921" height="1040"/>
+<g>
+	<g id="XMLID_11_">
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="454.9637" y1="103.0293" x2="989.1227" y2="787.6973">
+				<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+				<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+			</linearGradient>
+			<path class="st1" d="M1854.9,377.8c-38.8,19.7-87,41.2-143.4,60.5c-252.2,85.9-373.2-5.3-539,84.3
+				c-213.8,115.6-199.8,256.8-399,320.2c-215,68.4-354-57.1-568,33.7c-103.4,43.9-168.1,114.4-205,163.2H0V526.5l0.5-355.2
+				c44.8-8.4,118.1-19,208-16.9c360.7,8.6,511.3,211.3,799,251c240.8,33.2,300.5-151.2,561-124.2
+				C1712.6,296.2,1782.4,329.3,1854.9,377.8z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+	<g id="XMLID_10_">
+		<g>
+			<path class="st2" d="M1921,342v698H1l-0.5-0.4c36.8-48.8,101.6-119.3,205-163.2c214-90.8,353,34.8,568-33.7
+				c199.2-63.4,185.2-204.6,399-320.2c165.8-89.6,286.8,1.6,539-84.2c94.6-32.2,165.9-70.9,209-96.7L1921,342z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1497.5088 922.5352)" class="st3 st4">Dan Neira</text>
+<g id="XMLID_9_">
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="954.5919" y1="317.0626" x2="963.596" y2="73.9514">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+			<stop  offset="0.9988" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+		</linearGradient>
+		<path class="st5" d="M1920,0l0.5,328.6c-10.8,6.4-23.3,13.7-37.5,21.4c-14.2,7.8-9,7.3-26.5,15.8c-73.1-49-142.8-82.5-288-97.6
+			c-260.5-27-320.2,157.4-561,124.2c-287.7-39.7-438.3-242.4-799-251c-89.9-2.1-163.2,8.5-208,16.9L0,0h960H1920z"/>
+	</g>
+	<g>
+	</g>
+</g>
+</svg>
